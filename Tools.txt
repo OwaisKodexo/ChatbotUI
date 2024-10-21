@@ -1,0 +1,27 @@
+DevSecOps Tool 
+Tools Used
+Following are some commonly used tools in the DevSecOps workflow:
+
+Automation Tools
+
+CodeAI — Fixes vulnerabilities using AI and deep learning
+Parasoft — Automates security tests for SDLC
+Ansible — Automates infrastructure provisioning, configuration changes, deployments
+StackStorm — Automates tasks and workflows for SREs
+Container Security
+
+Calico — Secures containers, VMs, hosts for Kubernetes, etc.
+Clair — Scans containers for vulnerabilities
+Notary — Signs and verifies content using keys
+Cloud Testing Tools
+
+AppScan — Security tests cloud apps
+AWS Security — Data protection and identity services
+ThreatModeler — Automated threat models for cloud infra
+App Security Testing
+
+Veracode, Checkmarx — Static analysis of source code
+SonarQube — Finds quality and security code issues
+Fortify WebInspect — Dynamic and black box test
+New Relic — Observability platform
+ELK Stack — Log analysis and data visualization
